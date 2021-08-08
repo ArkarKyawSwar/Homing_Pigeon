@@ -1,4 +1,4 @@
 # Homing Pigeon
 
 ## Introduction
-Just another a chat application. 
+Just another chat application. 
